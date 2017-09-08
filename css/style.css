@@ -194,7 +194,7 @@ body.page-fullsingle {
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #848d96;
+  color: white;
   -webkit-animation: fadein 2s;
           animation: fadein 2s; }
   body.page-fullsingle p {
@@ -212,7 +212,7 @@ body.page-fullsingle {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap; } }
   .fs-page .page-image {
-    width: 50%;
+    width: 40%;
     height: 100vh;
     background-image: url("../images/background.jpg");
     background-position: center center;
@@ -222,7 +222,7 @@ body.page-fullsingle {
         height: 80vh;
         width: 100%; } }
   .fs-page .page-content {
-    width: 50%;
+    width: 60%;
     min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -307,7 +307,7 @@ body.page-fullsingle {
     line-height: 16px;
     margin-bottom: 12px; }
     .page-lists .page-list ul li a {
-      color: #848d96;
+      color: white;
       transition-duration: 0.5s; }
       .page-lists .page-list ul li a:hover {
         color: #CA486d;

@@ -214,7 +214,7 @@ body.page-fullsingle {
   .fs-page .page-image {
     width: 40%;
     height: 100vh;
-    background-image: url("../images/background.jpg");
+    background-image: url("../3-up--b.svg");
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {
